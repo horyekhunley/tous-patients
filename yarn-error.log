@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\mahbu\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add express mysql cors dotenv ip
+
+PATH: 
+  C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\mahbu\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.3.7-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\PuTTY;C:\Users\mahbu\.cargo\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin;C:\Users\mahbu\AppData\Local\Microsoft\WindowsApps;C:\Users\mahbu\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\mahbu\AppData\Roaming\npm;C:\Program Files\JetBrains\WebStorm 2022.1.2\bin;C:\Users\mahbu\AppData\Local\JetBrains\Toolbox\scripts
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.15.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: getaddrinfo EAI_AGAIN registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+
+npm manifest: 
+  {
+    "name": "toussaint",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
